@@ -439,6 +439,15 @@ sites:
     maintainers:
       - "[Virginie Uhlmann](https://imagej.net/User:Vuhlmann)"
 
+  - name: "DynamicKymograph"
+    id: "DynamicKymograph"
+    url: "https://sites.imagej.net/DynamicKymograph/"
+    description: >-
+      [DynamicKymograph](https://sites.imagej.net/DynamicKymograph/) is a plugin that generates
+      kymographs from stack videos using key framing and linear interpolation.
+    maintainers:
+      - "[Rudy Zhou](https://github.com/rudyzhou)"
+
   - name: "EMBL-CBA"
     id: "EMBL-CBA"
     url: "https://sites.imagej.net/EMBL-CBA/"
